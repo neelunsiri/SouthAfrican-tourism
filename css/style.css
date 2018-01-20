@@ -1,0 +1,37 @@
+body {
+  background-color: red;
+}
+
+#main {
+  background-color: white;
+  margin: auto;
+  max-width: 80%;
+  border: 2px solid blue;
+  padding: 0.5em;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+#caption {
+  color: red;
+  font-size: 24px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.section {
+  background-color: yellow;
+  border: 1px dashed red;
+  margin: 4px;
+  padding: 4px;
+}
+
+h1 {
+  text-align: center;
+}
